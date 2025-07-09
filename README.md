@@ -4,8 +4,8 @@
 <h3 align="center">A Data Analyst passionate about uncovering insights through data</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalyanikhapale2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/kalyanikhapale2002?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=kalyanikhapale&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/kalyanikhapale?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 
