@@ -1,7 +1,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Kalyani Khapale!</h1>
-<h3 align="center">A Data Analyst passionate about uncovering insights through data</h3>
+<h3 align="center">A Data Analyst passionate about Uncovering insights from the past to guide future innovation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalyanikhapale&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
