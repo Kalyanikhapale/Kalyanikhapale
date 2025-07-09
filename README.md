@@ -12,9 +12,8 @@
 👋 Hi there! I'm Kalyani, a passionate Data Analyst and Mechanical Engineer. I specialize in leveraging data to drive insights and solutions that optimize processes and decision-making. With a background in mechanical engineering, I bring a unique blend of analytical rigor and engineering problem-solving skills to every project.
 
 🔧 Skills:
-Data Analysis: Proficient in Python (NumPy, Pandas), SQL, and data visualization tools like Power BI and Tableau.
 
-Mechanical Engineering: Strong background in design, manufacturing, and project management.
+Data Analysis: Proficient in Python (NumPy, Pandas), SQL, and data visualization tools like Power BI and Tableau.
 
 Machine Learning: Familiar with basic ML techniques for predictive modeling.
 
