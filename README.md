@@ -1,3 +1,14 @@
+
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Kalyani Khapale!</h1>
+<h3 align="center">A Data Analyst passionate about uncovering insights through data</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalyanikhapale2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/kalyanikhapale2002?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+
 👋 Hi there! I'm Kalyani, a passionate Data Analyst and Mechanical Engineer. I specialize in leveraging data to drive insights and solutions that optimize processes and decision-making. With a background in mechanical engineering, I bring a unique blend of analytical rigor and engineering problem-solving skills to every project.
 
 🔧 Skills:
@@ -12,11 +23,9 @@ Technical Proficiency: Excel in data cleaning, modeling, and storytelling throug
 
 📫 Let's Connect:
 
-📧 Email: [kalyanikhapale2002@gmail.com]
-
-🔗 LinkedIn: [https://www.linkedin.com/in/kalyani-khapale-b38812206]
-
-
+ 💌 Email: [kalyanikhapale2002@gmail.com](mailto:kalyanikhapale2002@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/kalyani-khapale-b38812206](https://www.linkedin.com/in/kalyani-khapale-b38812206)
+- 🧑‍💻 GitHub: [github.com/kalyanikhapale](https://github.com/kalyanikhapale)
 
 <h2>💻 Tech Stack</h2>
 
