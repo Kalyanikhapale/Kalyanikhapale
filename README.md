@@ -21,11 +21,13 @@ Machine Learning: Familiar with basic ML techniques for predictive modeling.
 Technical Proficiency: Excel in data cleaning, modeling, and storytelling through data.
 
 
-📫 Let's Connect:
+## 🌐 Let's Connect!
 
- 💌 Email: [kalyanikhapale2002@gmail.com](mailto:kalyanikhapale2002@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/kalyani-khapale-b38812206](https://www.linkedin.com/in/kalyani-khapale-b38812206)
-- 🧑‍💻 GitHub: [github.com/kalyanikhapale](https://github.com/kalyanikhapale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalyani-khapale-b38812206/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kalyanikhapale)
+
+📧 Email: [kalyanikhapale2002@gmail.com](mailto:kalyanikhapale2002@gmail.com)
+
 
 <h2>💻 Tech Stack</h2>
 
