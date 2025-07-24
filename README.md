@@ -45,6 +45,10 @@ Technical Proficiency: Excel in data cleaning, modeling, and storytelling throug
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-3F4F75?style=for-the-badge&logo=Excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-3F4F75?style=for-the-badge&logo=Tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-3F4F75?style=for-the-badge&logo=AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-3F4F75?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 </div>
 
 ---
