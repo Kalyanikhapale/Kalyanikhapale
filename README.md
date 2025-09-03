@@ -8,16 +8,74 @@
   <img src="https://img.shields.io/github/followers/kalyanikhapale?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
+# Hi there! 👋 I'm Kalyani Khapale  
 
-👋 Hi there! I'm Kalyani, a passionate Data Analyst and Mechanical Engineer. I specialize in leveraging data to drive insights and solutions that optimize processes and decision-making. With a background in mechanical engineering, I bring a unique blend of analytical rigor and engineering problem-solving skills to every project.
+I am a **Data Analyst** and **Mechanical Engineer** passionate about transforming raw data into actionable insights. I specialize in **data analysis, visualization, and financial insights** to optimize processes and support data-driven decision-making. My engineering background equips me with **analytical rigor** and a **problem-solving mindset**.  
 
-🔧 Skills:
+---
 
-Data Analysis: Proficient in Python (NumPy, Pandas), SQL, and data visualization tools like Power BI and Tableau.
+## 🔧 Skills  
+### Data Analysis & Management
+- **Data Analysis, Data Wrangling, Data Cleaning, Data Modeling**  
+- Python (NumPy, Pandas, Matplotlib, Seaborn)  
+- SQL, R  
+- Excel (Advanced Data Cleaning, Modeling, Pivot Tables, Dashboarding)  
 
-Machine Learning: Familiar with basic ML techniques for predictive modeling.
+### Data Visualization & Storytelling
+- Power BI, Tableau, Looker  
+- Creating business-focused dashboards and reports  
+- Transforming raw data into actionable insights through storytelling  
 
-Technical Proficiency: Excel in data cleaning, modeling, and storytelling through data.
+### Machine Learning & AI
+- Predictive Modeling, Regression, Classification  
+- Natural Language Processing (NLP)  
+- AI/ML Project Implementation  
+
+### Technical & Cloud Proficiency
+- BigQuery, Spark, Hadoop, Hive, Kafka  
+- AWS, Azure, GCP  
+- Docker, Kubernetes  
+
+### Frameworks & Tools
+- Scikit-Learn, Keras, TensorFlow, Flask, Streamlit, Django  
+- APIs, Git/GitHub, Jira  
+
+### Databases
+- MySQL, PostgreSQL, MongoDB, Snowflake  
+---
+
+## 💼 Experience & Simulations  
+
+### Deloitte – Data Analytics Job Simulation
+- Built **interactive Tableau dashboards** to analyze complex datasets.  
+- Applied Excel for **data classification and business insights**.  
+
+### Tata – Data Visualization Job Simulation
+- Delivered **business-focused dashboards**, including scenario framing, selecting visuals, and communicating insights.  
+- Transformed raw data into actionable insights using **data storytelling techniques**.  
+
+### BCG X – Gen AI Job Simulation
+- Developed an **AI-powered financial chatbot** integrating complex financial data.  
+- Used **rule-based logic and NLP** to provide user-friendly financial insights.  
+
+---
+
+## 📊 GitHub Projects  
+
+- Completed **10+ end-to-end projects** in data analytics, visualization, and machine learning.  
+- Highlights include:  
+  - **Power BI dashboards** for business KPIs  
+  - **Predictive modeling** with Python  
+  - **NLP projects** for text analysis  
+  - **ETL pipelines** and data preprocessing  
+- [Explore My Projects on GitHub](#)  
+
+---
+
+
+> “Data is not just numbers; it’s stories waiting to be told.” 📊
+
+
 
 
 ## 🌐 Let's Connect!
