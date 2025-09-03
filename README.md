@@ -15,48 +15,15 @@ I am a **Data Analyst** and **Mechanical Engineer** passionate about transformin
 ---
 
 ## 🔧 Skills  
-### Data Analysis & Management
-- **Data Analysis, Data Wrangling, Data Cleaning, Data Modeling**  
-- Python (NumPy, Pandas, Matplotlib, Seaborn)  
-- SQL, R  
-- Excel (Advanced Data Cleaning, Modeling, Pivot Tables, Dashboarding)  
+**Data Analysis & Management:** Data Analysis, Data Wrangling, Data Cleaning, Data Modeling, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, R, Excel (Advanced Data Cleaning, Modeling, Pivot Tables, Dashboarding)  
 
-### Data Visualization & Storytelling
-- Power BI, Tableau, Looker  
-- Creating business-focused dashboards and reports  
-- Transforming raw data into actionable insights through storytelling  
+**Data Visualization & Storytelling:** Power BI, Tableau, Looker, Creating business-foused dashboards and reports, Transforming raw data into actionable insights through storytelling  
 
-### Machine Learning & AI
-- Predictive Modeling, Regression, Classification  
-- Natural Language Processing (NLP)  
-- AI/ML Project Implementation  
+**Machine Learning & AI:** Predictive Modeling, Regression, Classification, Natural Language Processing (NLP), AI/ML Project Implementation  
 
-### Technical & Cloud Proficiency
-- BigQuery, Spark, Hadoop, Hive, Kafka  
-- AWS, Azure, GCP  
-- Docker, Kubernetes  
+**Technical & Cloud Proficiency:** BigQuery, Spark, Hadoop, Hive, Kafka, AWS, Azure, GCP, Docker, Kubernetes  
 
-### Frameworks & Tools
-- Scikit-Learn, Keras, TensorFlow, Flask, Streamlit, Django  
-- APIs, Git/GitHub, Jira  
-
-### Databases
-- MySQL, PostgreSQL, MongoDB, Snowflake  
----
-
-## 💼 Experience & Simulations  
-
-### Deloitte – Data Analytics Job Simulation
-- Built **interactive Tableau dashboards** to analyze complex datasets.  
-- Applied Excel for **data classification and business insights**.  
-
-### Tata – Data Visualization Job Simulation
-- Delivered **business-focused dashboards**, including scenario framing, selecting visuals, and communicating insights.  
-- Transformed raw data into actionable insights using **data storytelling techniques**.  
-
-### BCG X – Gen AI Job Simulation
-- Developed an **AI-powered financial chatbot** integrating complex financial data.  
-- Used **rule-based logic and NLP** to provide user-friendly financial insights.  
+**Frameworks, Tools & Databases:** Scikit-Learn, Keras, TensorFlow, Flask, Streamlit, Django, APIs, Git/GitHub, Jira, MySQL, PostgreSQL, MongoDB, Snowflake  
 
 ---
 
