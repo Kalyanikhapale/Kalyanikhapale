@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/github/followers/kalyanikhapale?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-# Hi there! 👋 I'm Kalyani Khapale  
 
 I am a **Data Analyst** and **Mechanical Engineer** passionate about transforming raw data into actionable insights. I specialize in **data analysis, visualization, and financial insights** to optimize processes and support data-driven decision-making. My engineering background equips me with **analytical rigor** and a **problem-solving mindset**.  
 
