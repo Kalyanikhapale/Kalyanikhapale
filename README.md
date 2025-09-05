@@ -33,14 +33,10 @@ I am a **Data Analyst** and **Mechanical Engineer** passionate about transformin
 - Highlights include:  
   - **Power BI dashboards** for business KPIs  
   - **Predictive modeling** with Python  
-  - **NLP projects** for text analysis  
-  - **ETL pipelines** and data preprocessing  
+  - **NLP projects** for text analysis   
 - [Explore My Projects on GitHub](#)  
 
 ---
-
-
-> “Data is not just numbers; it’s stories waiting to be told.” 📊
 
 
 
