@@ -44,6 +44,7 @@ I am a **Data Analyst** and **Mechanical Engineer** passionate about transformin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalyani-khapale-b38812206/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Kalyanikhapale)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-black?style=for-the-badge&logo=Kaggle)](https://www.kaggle.com/kalyanikhapale)
 
 📧 Email: [kalyanikhapale2002@gmail.com](mailto:kalyanikhapale2002@gmail.com)
 
